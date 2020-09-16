@@ -1,0 +1,2 @@
+# HelloWorld
+I had already installed android studios, so I only had to work on the task at hand. The first thing I did was run my program, once that was successful, I went under app and the res/values folder to open the Strings.xml. I added the &lt;string name="my_greeting">Hello, World. This is my first app!&lt;/string> to the resources. Then I went under layout folder and opened the activity_main.xml and went under attribute pane and replaced the hello world text with my_greetings.
